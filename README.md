@@ -8,6 +8,6 @@
 <li>When the food supply distrupted the population move to that place where there is proper food and thus the population change took place.</li>
 <li>Whenever there is disturbance in food supply then there is a reduce in the participant of people in various activities.</li>
 <li> Whenever there is a disturb in food supply then the disease also attack, and thus we see the increase of diseases where there is less food. </li>
-<li>Various people have less access to store. </li> 
+<li>Supply of food disturbs, the access to stores reduces. </li> 
 </ul>
 <p><b>Note:</b> for reference the the pdf of the report is provided. Anyone who want power bi report, please download power bi from the official site.</p>
